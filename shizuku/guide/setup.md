@@ -1,8 +1,8 @@
-# User manual
+opo a12# User manual
 
 [[toc]]
 
-## Start Shizuku
+adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh## Start Shizuku
 
 Shizuku supports startup in the following three ways.
 
@@ -93,7 +93,7 @@ To use `adb` you first need to turn on USB debugging on your device, usually by 
 The steps for enabling Developer Options on different devices may vary, please search for yourself.
 :::
 
-#### Start Shizuku
+#adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh## Start Shizuku
 
 Copy the command and paste into the terminal. If there is no problem, you will see that Shizuku has started successfully in Shizuku app.
 
